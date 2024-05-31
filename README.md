@@ -10,7 +10,7 @@
 <hr>
 
 <p>Do u wanna see my site?</p>
-<p>Here is the <a href="https://rhoanbarioni.github.io/clone_google/" target="_blank">Link</a></p>
+<p>Here is the <a href="https://rhoanbarioni.github.io/clone_google_result/" target="_blank">Link</a></p>
 
 <hr>
 
