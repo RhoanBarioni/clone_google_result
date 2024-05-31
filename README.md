@@ -8,5 +8,20 @@
 </div><br>
 
 <hr>
+
 <p>Do u wanna see my site?</p>
-<p>Here is the <a href="https://rhoanbarioni.github.io/clone_google_result/" target="_blank">Link</a></p>
+<p>Here is the <a href="https://rhoanbarioni.github.io/clone_google/" target="_blank">Link</a></p>
+
+<hr>
+
+<div style="display: flex; justify-content: center; align-items: center;
+flex-direction: row;">
+<div>
+<h1>Reference Page:</h1>
+<img style=" width: 400px; text-align: center;" src="assets/img/reference_page.png" alt="">
+</div>
+<div>
+<h1>Result:</h1>
+<img style=" width: 400px; text-align: center;" src="assets/img/result_page.png" alt="">
+</div>
+</div>
